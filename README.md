@@ -3,8 +3,11 @@
 ## Bugs Report
 
 **Bug:** #1
+
 **Title:**
+
 **Context:**
+
 **Steps to reproduce it:**
 
 1. Go to: https://qainterview.pythonanywhere.com/
@@ -12,7 +15,9 @@
 3.
 
 **Expected Result:**
+
 **Actual Result:**
+
 **Tested On:**
 MacBook Pro (15-inch)
 _Google Chrome (Version 83.0.4103.97)_
@@ -22,8 +27,11 @@ _Safari (Version 13.1.1)_
 [Desktop](https://nodejs.org/es/)
 
 **Bug:** #2
+
 **Title:**
+
 **Context:**
+
 **Steps to reproduce it:**
 
 1. Go to: https://qainterview.pythonanywhere.com/
@@ -31,7 +39,9 @@ _Safari (Version 13.1.1)_
 3.
 
 **Expected Result:**
+
 **Actual Result:**
+
 **Tested On:**
 MacBook Pro (15-inch)
 _Google Chrome (Version 83.0.4103.97)_
