@@ -2,7 +2,7 @@
 
 ## Bugs Report
 
-**Bug:** #1
+### Bug: #1
 
 **Title:**
 
