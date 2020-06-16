@@ -20,9 +20,9 @@
 
 **Tested On:**
 MacBook Pro (15-inch)
-_Google Chrome (Version 83.0.4103.97)_
-_Mozilla Firefox (Version 76.0.1)_
-_Safari (Version 13.1.1)_
+- _Google Chrome (Version 83.0.4103.97)_
+- _Mozilla Firefox (Version 76.0.1)_
+- _Safari (Version 13.1.1)_
 
 **Evidence:**
 [Desktop](https://nodejs.org/es/)
@@ -45,9 +45,9 @@ _Safari (Version 13.1.1)_
 
 **Tested On:**
 MacBook Pro (15-inch)
-_Google Chrome (Version 83.0.4103.97)_
-_Mozilla Firefox (Version 76.0.1)_
-_Safari (Version 13.1.1)_
+- _Google Chrome (Version 83.0.4103.97)_
+- _Mozilla Firefox (Version 76.0.1)_
+- _Safari (Version 13.1.1)_
 
 **Evidence:**
 [Desktop](https://nodejs.org/es/)
