@@ -63,9 +63,9 @@ MacBook Pro (15-inch)
 
 # Excercise 2
 
-## The test has been done with Javascript, Cypress.io & Cucumber (BDD Framework)
+## The UI tests have been done with Javascript, Cypress.io & Cucumber (BDD Framework)
 
-Concept for Automation functional testing using Javascript, Cypress.io and Cucumber. It shows any of solutions for automation test suite for different user stories of factorial calculator website. Javascript is the language used to write the test code.
+Concept for Automation functional testing using Javascript, Cypress.io and Cucumber. It shows any of solutions for automation test suite for an user story of factorial calculator website. Javascript is the language used to write the test code.
 
 Cucumber, along with Gherkin, is the testing framework. Gherkin is the business language used to write the tests in a “human readable” way. Cucumber helps capture test results as well.
 
@@ -122,7 +122,7 @@ In the case of Gherkin, Background was used in the test.
 
 - **Calculate.feature**
 
-1. The first scenario runs 13 test cases with different values to calculate a factorial number.
+1. The first scenario runs 13 test cases with different values to calculate a factorial number. This test was chosen because it aims to ensure the most critical flow for the business, in this case to guarantee the main behavior of the application which is to calculate factorial numbers.
 
 2. The second scenario runs 5 test cases with different viewport:
 - ipad-2
@@ -131,6 +131,7 @@ In the case of Gherkin, Background was used in the test.
 - samsung-s10
 - samsung-note9
 - macbook-15
+This test was chosen because it must ensure that the application works on different devices with different resolutions, without affecting the user interface.
 
 ## Documentation
 
