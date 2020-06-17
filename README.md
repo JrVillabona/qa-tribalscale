@@ -135,5 +135,5 @@ In the case of Gherkin, Background was used in the test.
 
 ## Documentation
 
-- Cypress: https://www.cypress.io/
-- Cypress-Cucumber-Preprocessor : https://www.npmjs.com/package/cypress-cucumber-preprocessor
+- [Cypress](https://www.cypress.io/)
+- [Cypress-Cucumber-Preprocessor](https://www.npmjs.com/package/cypress-cucumber-preprocessor)
