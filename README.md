@@ -124,14 +124,14 @@ In the case of Gherkin, Background was used in the test.
 
 1. The first scenario runs 13 test cases with different values to calculate a factorial number. This test was chosen because it aims to ensure the most critical flow for the business, in this case to guarantee the main behavior of the application which is to calculate factorial numbers.
 
-2. The second scenario runs 5 test cases with different viewport:
+2. The second scenario runs 5 test cases with different viewports. This test was chosen because it must ensure that the application works on different devices with different resolutions, without affecting the user interface:
+
 - ipad-2
 - ipad-mini
 - iphone-x
 - samsung-s10
 - samsung-note9
 - macbook-15
-This test was chosen because it must ensure that the application works on different devices with different resolutions, without affecting the user interface.
 
 ## Documentation
 
